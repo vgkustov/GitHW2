@@ -1,0 +1,11 @@
+Sample Bug Report.
+
+ID: "1_front"
+Header: "На главной станице на отображается логотип компании"
+Description: "При открытии главной страницы на загружается изображение с логотоипом сайта. Файл с изображением отсутствует на сервере"
+Steps to reproduce: "Открыть главную страницу сайта"
+Severity: "Low"
+Priority: "High"
+OS: "Windows 10"
+Browser: "Chrome, latest"
+
