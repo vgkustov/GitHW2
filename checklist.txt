@@ -1,0 +1,13 @@
+Sample Checklist
+
+1. Create Workplan
+2. Set Testing Team
+3. Determine Acceptance Criteria
+4. Determine Expected Result
+5. Create Test Plan
+6. Write Tests
+7. Execute Tests
+8. Compare actual Result with expexted Result
+9. Create Bug Reports.
+10. Buy some beer
+11. Celebrate.
