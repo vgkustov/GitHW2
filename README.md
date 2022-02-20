@@ -29,8 +29,8 @@
 
 4. Запушить структуру багрепорта на внешний репозиторий  
 
-> git add bugreport.txt - добавляем в отслеживание для гита
-> git commit -m "add bugreport.txt" - коммитим
+> git add bugreport.txt - добавляем в отслеживание для гита  
+> git commit -m "add bugreport.txt" - коммитим  
 > git push - отправляем на внешний репозиторий
 
 5. Вмержить ветку Bug Reports в Main
